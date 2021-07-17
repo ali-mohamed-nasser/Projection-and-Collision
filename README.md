@@ -86,6 +86,6 @@ And the angles are:
 - **θ<sub>1</sub>**: Ejection angle on the vertical plane before impact.
 - **θ<sub>2</sub>**: The angle of the ejection on the horizontal plane before impact.
 - **θ<sub>3</sub>**: The angle of ejection on the vertical plane is the angle of vertical rebound.
-- **θ<sub>4</sub>**: the angle of ejection on the horizontal plane the angle of horizontal rebound.
+- **θ<sub>4</sub>**: The angle of ejection on the horizontal plane the angle of horizontal rebound.
 
 And now we starting from the formula (2) and with the same way:
