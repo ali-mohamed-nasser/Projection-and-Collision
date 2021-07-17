@@ -67,3 +67,22 @@ And by that, we have found the right ray in all different cases, and we will not
 
 ### Calculate the velocity of the body after the impact
 Based on the law of energy conservation, which states that energy is neither destroyed nor created from nothing, but it moves from one form to another but first, we will consider that the energy will take the kinetic form. Thus, the amount of motion before the impact it will be equal to the amount of movement after the impact.
+<br/><br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_15.png" width="580"><br/><br/>
+
+We notice from the previous relationship that we need the value of v`1, v`2. It is the velocity of the first body and the second body after the impact and in order to be able to find these two values we will need two equations with two unknown parameters, so we will project the velocity ray on two coordinate axes either yz, xz or xy.
+We will choose the xy axes, so it will be:
+<br/><br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_16.png" width="580"><br/><br/>
+And starting from the formula (1):
+<br/><br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_17.png" width="580"><br/><br/>
+And we know that:
+<br/><br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_18.png" width="580"><br/><br/>
+So finally we get:
+<br/><br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_19.png" width="580"><br/><br/>
+
+#### And the angles are:
+- ϴ1: Ejection angle on the vertical plane before impact.
+- θ2: The angle of the ejection on the horizontal plane before impact.
+- θ3: The angle of ejection on the vertical plane is the angle of vertical rebound.
+- θ4: the angle of ejection on the horizontal plane the angle of horizontal rebound.
+
+And now we starting from the formula (2) and with the same way:
