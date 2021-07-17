@@ -75,14 +75,14 @@ We will choose the xy axes, so it will be:
 And starting from the formula (1):
 <br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_17.png" width="420"><br/>
 And we know that:
-<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_18.png" width="300"><br/>
+<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_18.png" width="250"><br/>
 So finally we get:
 <br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_19.png" width="675">
 
 #### And the angles are:
-- **ϴ1**: Ejection angle on the vertical plane before impact.
-- **θ2**: The angle of the ejection on the horizontal plane before impact.
-- **θ3**: The angle of ejection on the vertical plane is the angle of vertical rebound.
-- **θ4**: the angle of ejection on the horizontal plane the angle of horizontal rebound.
+- **θ<sub>1</sub>**: Ejection angle on the vertical plane before impact.
+- **θ<sub>2</sub>**: The angle of the ejection on the horizontal plane before impact.
+- **θ<sub>3</sub>**: The angle of ejection on the vertical plane is the angle of vertical rebound.
+- **θ<sub>4</sub>**: the angle of ejection on the horizontal plane the angle of horizontal rebound.
 
 And now we starting from the formula (2) and with the same way:
