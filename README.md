@@ -79,7 +79,7 @@ And we know that:
 So finally we get:
 <br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_19.png" width="675">
 
-#### And the angles are:
+And the angles are:
 - **θ<sub>1</sub>**: Ejection angle on the vertical plane before impact.
 - **θ<sub>2</sub>**: The angle of the ejection on the horizontal plane before impact.
 - **θ<sub>3</sub>**: The angle of ejection on the vertical plane is the angle of vertical rebound.
