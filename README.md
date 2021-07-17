@@ -71,13 +71,13 @@ Based on the law of energy conservation, which states that energy is neither des
 
 We notice from the previous relationship that we need the value of v`1, v`2. It is the velocity of the first body and the second body after the impact and in order to be able to find these two values we will need two equations with two unknown parameters, so we will project the velocity ray on two coordinate axes either yz, xz or xy.
 We will choose the xy axes, so it will be:
-<br/><br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_16.png" width="290"><br/><br/>
+<br/><br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_16.png" width="290"><br/>
 
 And starting from the formula (1):
-<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_17.png" width="390"><br/><br/>
+<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_17.png" width="390"><br/>
 
 And we know that:
-<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_18.png" width="220"><br/><br/>
+<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_18.png" width="220"><br/>
 
 So finally we get:
 <br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_19.png" width="650">
@@ -86,4 +86,5 @@ And the angles are:
 - **θ<sub>2</sub>**: The angle of the ejection on the horizontal plane before impact.
 - **θ<sub>3</sub>**: The angle of ejection on the vertical plane is the angle of vertical rebound.
 - **θ<sub>4</sub>**: the angle of ejection on the horizontal plane the angle of horizontal rebound.
+
 And now we starting from the formula (2) and with the same way:
