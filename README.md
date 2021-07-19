@@ -1,4 +1,4 @@
-# Projection & Collision Simulation &middot; [![GitHub](https://img.shields.io/github/license/ali-mohamed-nasser/Projection-and-Collision)](https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/LICENSE)
+# Projection & Collision Simulation &middot; [![GitHub](https://img.shields.io/github/license/ali-mohamed-nasser/Projection-and-Collision)](https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/ali-mohamed-nasser/Projection-and-Collision)
 
 ### Introduction
 In this project, we dealt with the physical study of the idea of throwing solid objects under different conditions, factors, and environments, and we followed this up with a physical study to know the reactions resulting from this ejection, such as these objects hitting surfaces, rebounding from them and colliding with other solid objects, or studying the friction factor resulting from these objects touching surfaces and this factor. It varies according to the material of the object or the surface studied
