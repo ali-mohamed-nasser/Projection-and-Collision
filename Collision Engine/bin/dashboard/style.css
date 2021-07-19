@@ -1,0 +1,41 @@
+/* Start Main Style & Minu */
+#AnchorPane { -fx-background-color: #EAE5E2; }
+#AnchorPane .section { -fx-background-color: #EAE5E2; }
+#AnchorPane .background { -fx-background-image: url('images/background.jpg'); }
+#AnchorPane #leftMinu { -fx-background-image: url('images/leftMinu.png'); }
+#AnchorPane #leftMinu Button { -fx-text-fill: #999; -fx-font-weight: 900; -fx-font-size: 14.5px; -fx-min-height: 50px; -fx-cursor: hand; -fx-background-color: transparent; -fx-background-radius: 0; }
+/* End Main Style & Minu */
+
+/* Start Welcome Screen */
+#AnchorPane #welcomePane { -fx-background-color: #EAE5E2; }
+#AnchorPane #welcomePane AnchorPane { -fx-background-color: rgba(52, 152, 219, .9); }
+#AnchorPane #welcomePane AnchorPane Pane { -fx-background-color: #FFF; }
+#AnchorPane #welcomePane AnchorPane Text { -fx-font-family: 'Roboto'; -fx-font-weight: 900; -fx-font-size: 21.4px; -fx-fill: #141414; }
+#AnchorPane #welcomePane AnchorPane #welcomeText { -fx-font-size: 16px; -fx-font-weight: 400; -fx-fill: #FFF; -fx-line-spacing: 1; }
+#AnchorPane #welcomePane AnchorPane Button { -fx-padding: 10px 20px; -fx-background-color: #141414; -fx-font-family: 'Roboto'; -fx-font-weight: 600; -fx-font-size: 13px; -fx-text-fill: #EFEFEF; -fx-cursor: hand; -fx-background-radius: 0; }
+/* End Welcome Screen */
+
+/* Start Notifications Pane */
+#AnchorPane #fullNotification { -fx-background-color: rgba(0, 0, 0, .8); }
+#AnchorPane #fullNotification #notificationArea { -fx-background-color: #EAE5E2; -fx-fill: #141414; }
+#AnchorPane #fullNotification #notificationArea Text { -fx-font-size: 15px; -fx-line-spacing: 2; }
+#AnchorPane #fullNotification #notificationArea Button { -fx-pref-width: 75px; -fx-padding: 10px 0; -fx-background-color: #0871C2; -fx-font-family: 'Roboto'; -fx-font-weight: 600; -fx-font-size: 13px; -fx-text-fill: #EFEFEF; -fx-cursor: hand; -fx-background-radius: 0; }
+#AnchorPane #fullNotification #notificationArea Button:hover { -fx-background-color: #141414; }
+/* End Notifications Pane */
+
+/* Start User Dashboard */
+#AnchorPane #userDashboard Text { -fx-font-family: 'Open Sans'; -fx-font-weight: 100; -fx-font-size: 24px; -fx-fill: #141414; } 
+#AnchorPane #userDashboard AnchorPane:hover, #AnchorPane #backPane:hover { -fx-background-color: #DDD; -fx-cursor: hand; }
+#AnchorPane #userDashboard AnchorPane Text { -fx-font-size: 14px; -fx-text-alignment: center; -fx-fill: #888; }
+#AnchorPane .section Text { -fx-font-family: 'Open Sans'; -fx-font-weight: 100; -fx-font-size: 30px; -fx-fill: #141414; }
+#AnchorPane #generalSettings RadioButton { -fx-cursor: hand; }
+/* End User Dashboard */
+
+/* Start About Us Section */
+#aboutUs { -fx-font-family: 'Open Sans'; -fx-font-weight: 400; -fx-fill: #141414; }
+#aboutUs .title { -fx-font-size: 40px; }
+#aboutUs .second-title { -fx-font-size: 18px; -fx-fill: #888; }
+#aboutUs .paragraph { -fx-font-size: 16px; }
+#aboutUs .inner { -fx-background-color: #DDD; }
+#aboutUs .inner Text { -fx-font-size: 14px; -fx-text-alignment: center; -fx-fill: #888; }
+/* End About Us Section */
