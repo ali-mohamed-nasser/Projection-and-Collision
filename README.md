@@ -90,10 +90,13 @@ And the angles are:
 
 And now we starting from the formula (2) and with the same way:
 <br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_20.png" width="390"><br/>
+
 And we know that:
-<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_21.png" width="220"><br/>
+<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_21.png" width="150"><br/>
+
 So finally we get:
 ### An image goes here
+
 Here, we notice that we have get two equations with two unknowns parameters: v1' & v2'. And by using the values of the parameters and the joint solution of the two equations together we get the value of the velocity after the impact for the two bodies.
 
 > Note: To find the value of the velocity after an object hits the ground or a wall, we apply the previous equations but we consider that the mass of the earth is very large, so the decrease in the velocity of the body is small.
