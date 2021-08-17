@@ -89,9 +89,9 @@ And the angles are:
 - **θ<sub>4</sub>**: The angle of ejection on the horizontal plane the angle of horizontal rebound.
 
 And now we starting from the formula (2) and with the same way:
-### An image goes here
+<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_20.png" width="390"><br/>
 And we know that:
-### An image goes here
+<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_21.png" width="220"><br/>
 So finally we get:
 ### An image goes here
 Here, we notice that we have get two equations with two unknowns parameters: v1' & v2'. And by using the values of the parameters and the joint solution of the two equations together we get the value of the velocity after the impact for the two bodies.
