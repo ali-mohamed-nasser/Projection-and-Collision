@@ -95,7 +95,7 @@ And we know that:
 <br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_21.png" width="150"><br/>
 
 So finally we get:
-### An image goes here
+<br/><img src="https://github.com/ali-mohamed-nasser/Projection-and-Collision/blob/main/images/image_22.png" width="650">
 
 Here, we notice that we have get two equations with two unknowns parameters: v1' & v2'. And by using the values of the parameters and the joint solution of the two equations together we get the value of the velocity after the impact for the two bodies.
 
