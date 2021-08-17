@@ -100,3 +100,6 @@ So finally we get:
 Here, we notice that we have get two equations with two unknowns parameters: v1' & v2'. And by using the values of the parameters and the joint solution of the two equations together we get the value of the velocity after the impact for the two bodies.
 
 > Note: To find the value of the velocity after an object hits the ground or a wall, we apply the previous equations but we consider that the mass of the earth is very large, so the decrease in the velocity of the body is small.
+
+### The friction power
+To bring our study closer to reality, we added a new factor to that study, which is the force of friction, and it is a force resisting the movement of the body when it comes into contact with other bodies and reduces the speed of that body. And that force is given by:
